@@ -1,0 +1,130 @@
+.left-bar{
+    background-color: white;
+    width: 223px;
+    height: 100vh;
+    position: fixed;
+    margin-top: 20px;
+}
+
+    
+
+.left-img-box{
+    height: 92px;;
+}
+
+.left-container{
+    height: 100vh;
+    width: 224px;
+    border-right: 1px solid rgb(228, 223, 223);
+    position: fixed;
+    margin-top: -20px;
+
+}
+
+.insta-logo{
+    height: 39px;
+    margin-top: 13px;
+    margin-left: 1px;
+}
+
+.left-buttons-section{
+    background-color: white;
+    height: 665px;
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.left-button{
+    background-color: white;
+    height: 56px;
+    width: 220px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.left-more-box{
+    background-color: white;
+    height: 56px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.more-button{
+    background-color: white;
+    height:48px;
+    width: 220px;
+    display: flex;
+    align-items: center;
+   
+}
+.left-icons{
+    height:48px ;
+    width:220px ;
+    background-color: white;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+
+.left-icons:hover{
+    background-color: #03376B;
+
+}
+.icons-holder{
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    display:flex ;
+    align-items: center;
+
+
+}
+
+.icons-img{
+    height: 22px;
+    width: 22px;
+    margin-left: -1px;
+
+}
+
+.icon-name{
+    height: 24px;
+    width: auto;
+    background-color: white;
+    font-size: 16px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-left: 4px;
+
+}
+
+.pro-img{
+    height: 30px;
+    width: 30px;
+    margin-left: -4px;
+    border-radius: 20px;
+
+}
+
+.home-icon{
+    height: 30px;
+    width: 30px;
+    margin-left: -5px;
+    
+
+}
+
+
+.icon-name.home{
+    font-weight: bolder;
+}

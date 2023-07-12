@@ -1,0 +1,136 @@
+.right-section{
+    width: 368px;
+    height: 841px;
+    background-color: white;
+    margin-top: 20px;
+    display: flex;
+    justify-content: end;
+    margin-left: 13px;
+
+}
+
+.suggestion-part{
+    width: 319px;
+    height: 547px;
+    background-color: white;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.my-id{
+    height: 44px;
+    width: 287px;
+    background-color: white;
+    display:flex ;
+    align-items: center;
+
+}
+
+.right-profile-img{
+    height: 52px;
+    width: 52px;
+    background-color: white;
+    margin-left: 5px;
+}
+
+.right-side-profile{
+    height: 100%;
+    border-radius: 32px;
+
+}
+
+.my-insta-names{
+    height: 36px;
+    width: 184px;
+    background-color: white;
+    margin-left: 9px;
+
+}
+
+.switch{
+    color: #0095F6;
+    margin-left: auto;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.follow{
+    color: #0095F6;
+    margin-left: auto;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+.middle-heading{
+    height: 19px;
+    width: 319px;
+    background-color:white;
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.heading-content{
+    height: 11px;
+    width: 250px;
+    background-color:white;
+    display: flex;
+    align-items: center;
+    
+}
+
+.heading-end{
+    margin-left: 15px;
+    font-size: 12px;
+    color: #000000;
+
+}
+
+.heading-right{
+    font-size: 14px;
+    color: #737373;
+    margin-left: 21px;
+}
+
+.suggestions-id{
+    height: 60px;
+    width: 315px;
+    background-color:white;
+    
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+}
+
+.insta-info{
+    height: 42px;
+    width: 287px;
+    background-color: white;
+    margin-right: 32px;
+    margin-top: 33px;
+    font-size: 12px;
+    display: flex;
+    margin-left: 43px;
+    align-items: center;
+ 
+}
+
+.end-label{
+    height: 16px;
+    width: 287px;
+    background-color: white;
+    margin-right: -7px;
+    margin-top: 13px;
+    display: flex;
+    font-size: 12px;
+    align-items: center;++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+}
+
+.suggestiion-id-profile{
+    height: 54px;
+    width: 54px;
+    background-color:white;
+}
